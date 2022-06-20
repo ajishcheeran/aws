@@ -1,0 +1,30 @@
+{
+    "name": "Thomas,",
+    "age": "34,",
+    "occupation": "Software Developer",
+    "Address": [
+        "114 South Buchanan Boulevard Duke Box 90790 Durham",
+        {
+            "NC 27708 Phone": "(919) 681-8472"
+        },
+        {
+            "Fax": "(919) 681-8492"
+        }
+    ],
+    "Hobbies": [
+        "Writing",
+        "Reading",
+        "Cycling"
+    ],
+    "Skills": {
+        "Programming": "Java Python",
+        "Databases": "MySQL PostgreSQL",
+        "DevOps Tools": {
+            "Configuration Management": "Ansile Puppet",
+            "Git": null,
+            "Virtualization": "Docker K8S:\"50% covered\" Swarm:\"90% covered\" CoreOS"
+        },
+        "IQ": 122.55,
+        "Hike eligible": true
+    }
+}
